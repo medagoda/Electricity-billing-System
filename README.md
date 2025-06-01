@@ -57,4 +57,12 @@ This is a simple web application for managing meter readings using **Spring Boot
 
    ### Screenshot:
 
-   
+   ### 🏠 Customer Page
+
+ ![Customer Page](/images/customer.png) <!-- Replace with your actual image path -->
+
+---
+
+   ### 📄 Meter Reader Page
+
+ ![Meter Reader Page](/images/meterreader.png)
